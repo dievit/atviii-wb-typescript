@@ -1,0 +1,25 @@
+.dropdown-content {
+    min-width: 150px; 
+    top: -68px;
+}
+
+.brand-logo {
+    margin-left: 10px;
+}
+
+/* .dropdown-trigger {
+    margin-right: 40px;
+}
+ */
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.collapsible-content {
+    display: flex;
+    align-items: left;
+    justify-content: space-between;
+}
